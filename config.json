@@ -119,6 +119,15 @@
          }
       },
       {
+         "key":"沐辰荐片",
+         "name":"沐辰荐片",
+         "type":3,
+         "api":"https://json.doube.eu.org/python/py_jianpian.py",
+         "searchable":1,
+         "filterable":0,
+         "changeable":0
+      },
+      {
          "key":"huarenoktv",
          "name":"华人直播️",
          "type":1,
