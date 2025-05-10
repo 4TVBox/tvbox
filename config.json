@@ -7,6 +7,7 @@
          "name":"黑木影视",
          "type":1,
          "api":"https://heimuer.ggff.net/api.php/tvbox",
+         "playUrl":"json:https://tvbox.linkpc.net/api/kill_ads?url=",
          "searchable":1,
          "quickSearch":1,
          "filterable":0
@@ -41,12 +42,11 @@
          "changeable":0
       },
       {
-         "key":"沐辰Hi视频",
-         "name":"沐辰Hi视频",
-         "type":4,
-         "api":"https://py.doube.eu.org/spider?site=UpFuHn",
+         "key":"嗷呜Hi视频",
+         "name":"嗷呜Hi视频",
+         "type":3,
+         "api":"https://gh-proxy.com/https://raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/app/hitvAPP.py",
          "searchable":1,
-         "quickSearch":0,
          "filterable":0,
          "changeable":0
       },
