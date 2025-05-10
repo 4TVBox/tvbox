@@ -42,15 +42,6 @@
          "changeable":0
       },
       {
-         "key":"嗷呜Hi视频",
-         "name":"嗷呜Hi视频",
-         "type":3,
-         "api":"https://gh-proxy.com/https://raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/app/hitvAPP.py",
-         "searchable":1,
-         "filterable":0,
-         "changeable":0
-      },
-      {
          "key":"沐辰爱瓜TV",
          "name":"沐辰爱瓜TV",
          "type":3,
@@ -140,6 +131,42 @@
             "User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
             "Referer":"test"
          }
+      },
+      {
+         "key":"嗷呜光速APP",
+         "name":"嗷呜光速APP",
+         "type":3,
+         "api":"https://raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/app/光速APP.py",
+         "searchable":1,
+         "filterable":0,
+         "changeable":0
+      },
+      {
+         "key":"嗷呜小苹果APP",
+         "name":"嗷呜小苹果APP",
+         "type":3,
+         "api":"https://raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/app/小苹果APP.py",
+         "searchable":1,
+         "filterable":0,
+         "changeable":0
+      },
+      {
+         "key":"嗷呜悠悠APP",
+         "name":"嗷呜悠悠APP",
+         "type":3,
+         "api":"https://raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/app/悠悠APP.py",
+         "searchable":1,
+         "filterable":0,
+         "changeable":0
+      },
+      {
+         "key":"嗷呜绝对影视",
+         "name":"嗷呜绝对影视",
+         "type":3,
+         "api":"https://raw.githubusercontent.com/JJBJJ/PyramidStore/refs/heads/main/plugin/html/绝对影视.py",
+         "searchable":1,
+         "filterable":0,
+         "changeable":0
       }
    ],
    "lives":[
